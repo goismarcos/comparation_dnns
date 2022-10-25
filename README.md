@@ -1,4 +1,4 @@
-# :construction_worker_man: Work for bootcamp XP Education module one machine learning architect
+# :construction_worker_man: Work of bootcamp XP Education module one machine learning architect
 
 1.   Using Dense Neural Network.
 2.   Training transfer learning with VGG16.
